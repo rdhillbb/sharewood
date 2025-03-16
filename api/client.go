@@ -1,4 +1,4 @@
-package sharwood 
+package sharwoodapi
 
 import (
 	"bytes"
